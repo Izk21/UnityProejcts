@@ -1,2 +1,3 @@
-# UnityProejcts
-scripts used in projects in unity
+# UnityProjects
+scripts and templates used in projects in unity
+
